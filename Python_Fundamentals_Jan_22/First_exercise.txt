@@ -1,2 +1,1 @@
 this is a test fist file in GitHub
-LIne 3 - this is line 3 and makin a conflict
